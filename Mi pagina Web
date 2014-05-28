@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<div class="contenedor">
+		<header class="cabecera">
+        <img src="img/logo.jpg" width="900" height="90">
+                </header>
+        <aside class="sidebar">
+					<li><a href="#">Inicio</a></li>
+					<li><a href="#">Psicologia Clinica</a></li>
+					<li><a href="#">Psicologia Forense</a></li>
+					<li><a href="#">Terapia Adultos</a></li>
+					<li><a href="#">Terapia niños y adolescentes</a></li>
+                    <li><a href="#">Coaching</a></li>
+                    <li><a href="#">Preguntas frecuentes</a></li>
+                    <li><a href="#">¿Quienes somos?</a></li>
+                    <li><a href="#">Contacta</a></li>
+			</ul>
+		</aside>
+
+		<section class="cuerpo">
+			<article class="texto"></article>
+           <img src="img/banner.jpg" width="600" height="360">
+           </section>
+		<div style="clear: both;"></div>
+		<footer class="pie">
+        
+        <nav class="servicio"> SERVICIOS
+        <ul>
+        <li><a href="#">Psicologia clínica</a></li>
+        <li><a href="#">Psicologia forense</a></li>
+        <li><a href="#">Coaching</a></li>
+        </ul>
+        </nav>
+        <nav class="direccion"> DIRECCIÓN
+         <ul>
+        <li><a href="#">C/ Genova 3</a></li>
+        <li><a href="#">28004 Madrid</a></li>
+        <li><a href="#">(metro Alonso Martinez)</a></li>
+        </ul>
+        </nav> 
+        <nav class="contacto"> CONTACTO
+        <ul>
+        <li><a href="#">TEL.:639.997.127</a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#">Email: info@psicologíaenmadrid.com</a></li>
+        </ul>
+        </nav> 
+        </footer>
+	</div>
+</body>
+</html>
