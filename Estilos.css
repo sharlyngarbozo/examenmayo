@@ -1,0 +1,81 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	}
+h2{
+margin:0px;
+}
+ul{
+	margin:0px;
+}
+
+.contenedor{
+	width:900px;
+	margin: 0 auto;
+}
+.cabecera{
+	background: #9E6919;
+
+
+}
+.cuerpo{
+	width: 560px;
+	background: white;
+	height: 300px;
+	float: left;
+
+}
+.cabecera li{
+
+	list-style:none;
+	}
+.menu li:hover {
+	background: blue;
+}
+.sidebar{
+	width: 270px;
+	background: #CCC;
+	height:340px ;
+	float: left;
+	padding:10px 15px;
+}	
+.sidebar li{
+	list-style:none;
+	border-bottom:1px solid #333;
+	Display:block;
+	margin-bottom:20px;
+	color:#000;
+	}
+.sidebar li a{
+	text-decoration:none;
+	color:#000;}
+
+.pie{
+	width:900px;
+	height: 100px;
+	background: #000;
+}
+.pie li{
+list-style:none;
+
+}
+
+.pie li a{
+	color:#FFF;
+	text-decoration:none;
+	font-size:9px;}
+.pie nav{
+	color:#FFF;
+	}
+.servicio{
+	float:left;
+	margin-left:30px;
+	padding:5px;}
+.direccion{
+	float:left;
+	margin-left:120px;
+	margin-right:120px;
+	padding:5px;}
+.contacto{
+	float:left;
+	margin-right:120px;
+	padding:5px;}
